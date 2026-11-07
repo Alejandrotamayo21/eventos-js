@@ -13,7 +13,7 @@ body {
 
 /* Encabezado */
 header {
-    background-color: #1e3a5f;
+    background-color: #d16813;
     color: #ffffff;
     padding: 24px 16px;
 }
@@ -70,7 +70,7 @@ select {
 }
 
 input[type="submit"] {
-    background-color: #1e3a5f;
+    background-color: #da7b10;
     color: #ffffff;
     border: none;
 }
